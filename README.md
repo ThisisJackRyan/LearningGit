@@ -1,3 +1,5 @@
 # LearningGit
 
-jflasjfadsjlajfaj'fajjfaajfj'fasdfjasfjlkasjfsa
+jflasjfadsjlajfaj'fa
+
+THis is a new edit by jack ryan
